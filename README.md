@@ -1,16 +1,7 @@
-# lottery_app
+# Flutter Lottery App
 
-A new Flutter project.
+This is an engaging and simple Flutter App made using Stateful Widget, designed to bring the excitement of a lottery draw to your mobile device! Whether you're a Flutter enthusiast or just starting your journey into app development, this app serves as a great example of a dynamic and interactive experience.
 
-## Getting Started
+# How it Works:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Flutter Lottery App generates a random number between 0 and 5 every time you press the refresh button. The magic happens when the generated number matches the winning number, which in this case is 5. Will you be the lucky winner?
